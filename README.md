@@ -1,5 +1,5 @@
 # jeux-pygame-1
-Premier jeux
+Premier jeu
 
 Executer le fichier introduction.py et suivre le jeux.
 
